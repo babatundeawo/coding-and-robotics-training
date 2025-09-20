@@ -4,9 +4,9 @@ This hub links all student course repositories.
 
 ## Courses
 - **[Python](https://github.com/babatundeawo/python-basics-for-students)** — `python-basics-for-students` (beginner → libraries: NumPy, Matplotlib)
-- **Web Development** — `web-dev-intro-html-css-js` (HTML → CSS → JS)
-- **Scratch Projects** — `scratch-projects`
-- **Robotics (Arduino)** — `robotics-with-arduino`
+- **[Web Development](https://github.com/babatundeawo/web-dev-intro-html-css-js)** — `web-dev-intro-html-css-js` (HTML → CSS → JS)
+- **[Scratch Projects](https://github.com/babatundeawo/scratch-projects)** — `scratch-projects`
+- **[Robotics](https://github.com/babatundeawo/robotics)** — `robotics`
 
 
 ## How to use
