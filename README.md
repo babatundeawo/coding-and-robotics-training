@@ -1,4 +1,4 @@
-# Coding & Robotics Training — Master Index
+# Coding & Robotics Training
 This hub links all student course repositories.
 
 
